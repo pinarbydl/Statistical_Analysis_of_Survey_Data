@@ -42,7 +42,7 @@ Uygulanan analizler:
 
 - Veri Toplama: Google Forms (Çevrimiçi Anket)  
 - İstatistiksel Analiz: **SPSS**  
-- Rapor Hazırlama: LaTeX ve Microsoft Word
+- Rapor Hazırlama: LaTeX 
 
 ---
 
